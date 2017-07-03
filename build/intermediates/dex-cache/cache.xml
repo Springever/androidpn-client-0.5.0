@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c792c62d08fffe1c7ce89e3df396c42ccc7485ad">
+        <dex dex="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c53758fb9b7543470502934425a8aff9498ecea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="24d82460c15b86d0b2433dacd18f19a87c1f1f4d">
+        <dex dex="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0c6c0e188d921a8cfe87a3c649601d1c290b3ab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\src\main\lib\asmack.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe03343aa1bcebe304b71c2c4ca64e447b86d565">
+        <dex dex="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\intermediates\transforms\dex\debug\folders\1000\2\asmack_e2604346d7d252168af1ca775123265bd02d86b7\classes.dex" />
+    </item>
+
+</items>

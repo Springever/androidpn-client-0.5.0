@@ -1,0 +1,2 @@
+http://127.0.0.1:7070/index.do  访问控制台
+修改androidpn.properties文件中的xmppHost

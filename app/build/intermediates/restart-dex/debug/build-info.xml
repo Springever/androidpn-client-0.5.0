@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="439641475687193"
+    token="-4277555891187192828"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2076" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1053" />
+    <task
+        name="verifier"
+        duration="112" />
+
+    <artifact
+        location="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="439641475687193"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\software\Android\AndroidStudioProjects\androidpn-client-0.5.0\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

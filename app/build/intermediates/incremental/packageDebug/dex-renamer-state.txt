@@ -1,0 +1,7 @@
+#Mon Jul 03 10:55:51 CST 2017
+base.0=D\:\\software\\Android\\AndroidStudioProjects\\androidpn-client-0.5.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0c6c0e188d921a8cfe87a3c649601d1c290b3ab6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\software\\Android\\AndroidStudioProjects\\androidpn-client-0.5.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c53758fb9b7543470502934425a8aff9498ecea3\\classes.dex
+base.1=D\:\\software\\Android\\AndroidStudioProjects\\androidpn-client-0.5.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c53758fb9b7543470502934425a8aff9498ecea3
+file.0=D\:\\software\\Android\\AndroidStudioProjects\\androidpn-client-0.5.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0c6c0e188d921a8cfe87a3c649601d1c290b3ab6\\classes.dex
